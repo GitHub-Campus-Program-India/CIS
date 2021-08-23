@@ -1,5 +1,5 @@
-# GitHub Weekender 🎉
-GitHub Weekender is an exclusive student camp to get started with GitHub contributing to Open Source at our Campus Program Schools in India. 
+# Code Innovation Series 🎉
+Code Innovation Series is an exclusive student camp to get started with GitHub contributing to Open Source at our Campus Program Schools in India. 
 
 ## Attend a GitHub Workshop 🎓
 | Month      | Register Now | Add to Calendar |
