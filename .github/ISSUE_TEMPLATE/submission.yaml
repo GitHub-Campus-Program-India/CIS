@@ -16,7 +16,7 @@ body:
     description: Please add a name to your weekend project.
   validations:
     required: true
-- type: textarea
+- type: input
   attributes:
     label: Project Repository
     description: Please share GitHub repository link of your project.
