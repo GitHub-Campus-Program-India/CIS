@@ -10,7 +10,7 @@ body:
     options:
     - label: I have attended the GitHub Workshop
       required: true
-- type: textarea
+- type: input
   attributes:
     label: Project Name
     description: Please add a name to your weekend project.
