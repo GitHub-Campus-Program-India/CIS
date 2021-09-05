@@ -44,7 +44,6 @@ body:
   validations:
     required: false
 - type: dropdown
-  id: download
   attributes:
     label: GitHub Student Developer Pack Tools Used
     description: |
@@ -56,3 +55,12 @@ body:
       - Push Bots
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: What is your level of education?
+    options:
+      - College or University(2 Years)
+      - College or University(4 Years)
+      - Graduate
+  validations:
+    required: false
