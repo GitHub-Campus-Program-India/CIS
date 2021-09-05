@@ -15,19 +15,19 @@ body:
     label: Project Name
     description: Please add a name to your weekend project.
   validations:
-    required: false
+    required: true
 - type: textarea
   attributes:
     label: Project Repository
     description: Please share GitHub repository link of your project.
   validations:
-    required: false
+    required: true
 - type: textarea
   attributes:
-    label: Project Demo
+    label: Project URL
     description: Please share demo link of your project or demo video.
   validations:
-    required: false
+    required: true
 - type: textarea
   attributes:
     label: University Name
@@ -36,7 +36,7 @@ body:
     required: false
 - type: textarea
   attributes:
-    label: Anything else?
+    label: Project Description
     description: |
       Links? References? Anything that will give us more context about your project!
 
