@@ -22,18 +22,18 @@ body:
     description: Please share GitHub repository link of your project.
   validations:
     required: true
-- type: textarea
+- type: input
   attributes:
     label: Project URL
     description: Please share demo link of your project or demo video.
   validations:
     required: true
-- type: textarea
+- type: input
   attributes:
     label: University Name
     description: University Name
   validations:
-    required: false
+    required: true
 - type: textarea
   attributes:
     label: Project Description
