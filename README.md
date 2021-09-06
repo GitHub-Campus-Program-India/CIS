@@ -8,7 +8,7 @@ Code Innovation Series is an exclusive student camp to get started with GitHub c
 
 ## Participate in the weekend hack 🚀
 
-1. Pick a theme
-2. Build a project on GitHub
+1. Build a project on GitHub
+2. Use Student Developer Pack Tools
 3. Submit your project [here](https://github.com/GitHub-Campus-Program-India/September2021/issues/new/choose)
 4. Fill swag shipment [form]() 🎁
