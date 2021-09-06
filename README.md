@@ -4,7 +4,7 @@ Code Innovation Series is an exclusive student camp to get started with GitHub c
 ## Attend a GitHub Workshop 🎓
 | Month      | Register Now | Add to Calendar |
 | ----------- | ----------- | ------------- |
-| September 2021      | https://bit.ly/2WOScZB       |  |
+| September 16, 2021      | https://airtable.com/shrn6JFkwyf1RVCtK      |  |
 
 ## Participate in the weekend hack 🚀
 
