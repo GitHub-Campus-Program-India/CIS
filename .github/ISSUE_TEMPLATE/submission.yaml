@@ -48,19 +48,22 @@ body:
     label: GitHub Student Developer Pack Tools Used
     description: |
       Projects must use at least one tool from the Pack to be posted on the Student Gallery.
+    multiple: true
     options:
       - Deepsource
       - Deepscan
       - pyCharm
       - Push Bots
+      - Canva
+      - Microsoft Azure
+      - Git Hub
+      - ATOM
+      - Mongo DB
+      - Twilio
+      - Pop SQL
+      - Astra
+      - Deepscan
+      - WiseJ
+      - LogDNA
   validations:
     required: true
-- type: dropdown
-  attributes:
-    label: What is your level of education?
-    options:
-      - College or University(2 Years)
-      - College or University(4 Years)
-      - Graduate
-  validations:
-    required: false
