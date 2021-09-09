@@ -62,7 +62,6 @@ body:
       - Twilio
       - Pop SQL
       - Astra
-      - Deepscan
       - WiseJ
       - LogDNA
   validations:
