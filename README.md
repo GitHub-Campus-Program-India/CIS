@@ -12,6 +12,25 @@ We would like to invite you'll to attend the workshop and weekend-hackathon as a
 
 Students on completion of the hands-on workshop would be provided with certificates. The workshop will be delivered by Synergetics Information Technology Services India Pvt. Ltd. We also have some exclusive GitHub swags 🎁 to giveaways for our top weekend hackathon projects. 
 
+📂 Topics covered: Open Source Fundamentals, Getting started with Git & GitHub, Building simple applications using Student Developer Pack.
+Details
+Open Source Fundamentals
+1. Open-Source Introduction
+2. Open-Source Licensing
+3. Open-Source Project Management 
+
+Getting started with Git & GitHub
+1. GitHub Components
+2. Working with GitHub
+3. GitHub Learning Lab
+4. What is Git?
+5. Development with Git
+6. Git Workflow
+7. Git Branching
+8. History and other Git Commands
+
+Building simple applications using Student Developer Pack
+
 ## Attend a GitHub Workshop 🎓
 | Month      | Register Now | Add to Calendar |
 | ----------- | ----------- | ------------- |
