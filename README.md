@@ -4,12 +4,7 @@
 
 Code Innovation Series is an open source focussed student developer skilling program in GitHub Campus Schools 🇮🇳 
 
-## Calendar 🗓 
-| Month      | Register Now | 
-| ----------- | ----------- | 
-| September 16, 2021      | https://airtable.com/shrn6JFkwyf1RVCtK      | 
-
-
+## Workshop Schedule 📝
 - Schedule: September 16, 2021 [01:00 PM - 05:00 PM IST] 
 - Topics covered: `Open Source Fundamentals`, `Getting started with Git & GitHub`, `GitHub Actions`, `Building simple applications using Student Developer Pack`.
 
