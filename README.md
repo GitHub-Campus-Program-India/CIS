@@ -1,7 +1,6 @@
 ![image](https://user-images.githubusercontent.com/52326803/132934703-e8b7883f-1339-4ab9-9cc4-010103a1ca82.png)
 
 # Code Innovation Series 🎉
-Welcome to GitHub Education
 
 Code Innovation Series - an open source focussed student developer skilling program in GitHub Campus Schools across the country. 
 It is an exclusive student camp to get started with GitHub contributing to Open Source at our Campus Program Schools in India. 
