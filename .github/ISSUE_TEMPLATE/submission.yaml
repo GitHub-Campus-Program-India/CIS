@@ -33,21 +33,21 @@ body:
     label: University Name
     description: University Name
     options:
-      - Universal College of Engineering
+      - Anurag University
+      - D. Y. PATIL INSTITUTE OF MASTER OF COMPUTER APPLICATIONS AND MANAGEMENT
+      - DR. D. Y. PATIL INSTITUTE OF ENGINEERING, MANAGEMENT
+      - Gharda Institute of Technology
+      - Gyan Ganga Institute of Technology
+      - Indian Institute of Technology Tirupati
+      - Ramco Institute of Technology
+      - Sagar Institute of Science and Technology (SISTec)
+      - Siddaganga Institute of Technology
       - SRINIVASA RAMANUJAN INSTITUTE OF TECHNOLOGY
       - SRM University-AP
-      - Sagar Institute of Science and Technology (SISTec)
-      - Gharda Institute of Technology
       - SRINIVAS INSTITUTE OF TECHNOLOGY
-      - D. Y. PATIL INSTITUTE OF MASTER OF COMPUTER APPLICATIONS AND MANAGEMENT
-      - Siddaganga Institute of Technology
-      - Toc H Institute of Science and Technology
       - SVKM's Institute of Technology
-      - DR. D. Y. PATIL INSTITUTE OF ENGINEERING, MANAGEMENT
-      - Ramco Institute of Technology
-      - Gyan Ganga Institute of Technology
-      - Anurag University
-      - Indian Institute of Technology Tirupati
+      - Toc H Institute of Science and Technology
+      - Universal College of Engineering
   validations:
     required: true
 - type: textarea
