@@ -63,7 +63,7 @@ body:
   attributes:
     label: GitHub Student Developer Pack Tools Used
     description: |
-      Projects must use at least one tool from the Pack to be posted on the Student Gallery.
+      Projects must use at least one tool from the Pack.
     multiple: true
     options:
       - Deepsource
