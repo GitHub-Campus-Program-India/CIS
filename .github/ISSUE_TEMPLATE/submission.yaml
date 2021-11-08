@@ -34,20 +34,47 @@ body:
     description: University Name
     options:
       - Anurag University
-      - D. Y. PATIL INSTITUTE OF MASTER OF COMPUTER APPLICATIONS AND MANAGEMENT
-      - DR. D. Y. PATIL INSTITUTE OF ENGINEERING, MANAGEMENT
-      - Gharda Institute of Technology
-      - Gyan Ganga Institute of Technology
-      - Indian Institute of Technology Tirupati
-      - Ramco Institute of Technology
-      - Sagar Institute of Science and Technology (SISTec)
-      - Siddaganga Institute of Technology
-      - SRINIVASA RAMANUJAN INSTITUTE OF TECHNOLOGY
+      - ABES Engineering College Ghaziabad
+      - Andhra Loyola IET
+      - Arunai Engineering College
+      - ATME College of Engineering
+      - Banarsidas Chandiwala Institute of IT
+      - Bhagwan Parshuram Institute of Technology (BPIT)
+      - Bharati Vidyapeeth's COE, KOP
+      - Bhilai Institute of Technology Durg
+      - BITS, Pilani K K Birla Goa
+      - Chalapathi Institute of Engineering and Technology
+      - Chitkara University- Himachal Pradesh
+      - Chitkara University,Punjab
+      - CHRIST THE KING ENGINEERING COLLEGE
+      - DarshanUniversity
+      - Dr. J. J. Magdum college of engineering
+      - Dwarkadas J. Sanghvi College of Engineering
+      - G Pulla Reddy Engineering College
+      - Global Nature Care Sangathan's Group of Institutions, Jabalpur
+      - Guru Nanak College
+      - Himgiri Zee University
+      - INDIAN INSTITUTE OF INFORMATION TECHNOLOGY KALYANI
+      - Kalyani Government Engineering College
+      - Kumaraguru Institutions (KCLAS)
+      - Mahendra College of Engineering
+      - Manipal University Jaipur
+      - MATS University
+      - N. K. Orchid College Of Engg. & Technology, Solapur
+      - Noida Institute of Engineering and Technology (NIET)
+      - Rajendra Mane College of Engineering and Technology, Ratnagir
+      - Sanmati Engineering College
+      - Shri Shankaracharya Institute of Professional Management
+      - SKN SINHGAD COLLEGE OF ENGINEERING, PANDHARPUR
+      - Srichaitanya college
       - SRM University-AP
-      - SRINIVAS INSTITUTE OF TECHNOLOGY
-      - SVKM's Institute of Technology
-      - Toc H Institute of Science and Technology
-      - Universal College of Engineering
+      - SVERIs College of Engineering, Pandharpur
+      - Terna Engineering College
+      - The Assam Royal Global University
+      - Vidyalankar School of Information Technology, VSIT
+      - Vsb Engineering College
+      - Xavier Institute Of Engineering
+      - Yenepoya Institute of Technology
   validations:
     required: true
 - type: textarea
