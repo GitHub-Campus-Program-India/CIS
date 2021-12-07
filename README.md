@@ -1,8 +1,7 @@
-#### 📣 Update (September Hackathon Winners)
-| Project      | Members |
-| ----------- | ----------- |
-| [E-food-hub-POS-system](https://github.com/GitHub-Campus-Program-India/CIS/issues/13)      | @Sarveshk76       |
-| [Learning Management System](https://github.com/GitHub-Campus-Program-India/CIS/issues/10)   | @Harsh151200 @parmar-mihir         |
+#### 📣 Update (November Hackathon Winners)
+| Project      | Members | Live Site URL
+| ----------- | ----------- |---------|
+| [URL Shortner](https://github.com/GitHub-Campus-Program-India/CIS/issues/16)      | @Ashesh3       | https://shrturl.us.to/ 
 
 ---
 ![image](https://user-images.githubusercontent.com/52326803/132934703-e8b7883f-1339-4ab9-9cc4-010103a1ca82.png)
