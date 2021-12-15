@@ -33,48 +33,35 @@ body:
     label: University Name
     description: University Name
     options:
-      - Anurag University
-      - ABES Engineering College Ghaziabad
-      - Andhra Loyola IET
-      - Arunai Engineering College
-      - ATME College of Engineering
-      - Banarsidas Chandiwala Institute of IT
-      - Bhagwan Parshuram Institute of Technology (BPIT)
-      - Bharati Vidyapeeth's COE, KOP
-      - Bhilai Institute of Technology Durg
-      - BITS, Pilani K K Birla Goa
-      - Chalapathi Institute of Engineering and Technology
-      - Chitkara University- Himachal Pradesh
-      - Chitkara University,Punjab
-      - CHRIST THE KING ENGINEERING COLLEGE
-      - DarshanUniversity
-      - Dr. J. J. Magdum college of engineering
-      - Dwarkadas J. Sanghvi College of Engineering
-      - G Pulla Reddy Engineering College
-      - Global Nature Care Sangathan's Group of Institutions, Jabalpur
-      - Guru Nanak College
-      - Himgiri Zee University
-      - INDIAN INSTITUTE OF INFORMATION TECHNOLOGY KALYANI
-      - Kalyani Government Engineering College
-      - Kumaraguru Institutions (KCLAS)
-      - Mahendra College of Engineering
-      - Manipal University Jaipur
-      - MATS University
-      - N. K. Orchid College Of Engg. & Technology, Solapur
-      - Noida Institute of Engineering and Technology (NIET)
-      - Rajendra Mane College of Engineering and Technology, Ratnagir
-      - Sanmati Engineering College
-      - Shri Shankaracharya Institute of Professional Management
-      - SKN SINHGAD COLLEGE OF ENGINEERING, PANDHARPUR
-      - Srichaitanya college
-      - SRM University-AP
-      - SVERIs College of Engineering, Pandharpur
-      - Terna Engineering College
-      - The Assam Royal Global University
-      - Vidyalankar School of Information Technology, VSIT
-      - Vsb Engineering College
-      - Xavier Institute Of Engineering
-      - Yenepoya Institute of Technology
+    - ABES institute of technology
+    - The Assam Royal Global University
+    - SCTR's Pune Institute of Computer Technology
+    - KSR College of Engineering
+    - Delhi Technical Campus
+    - Don Bosco Institute of Technology, Mumbai
+    - Jaypee University of Engineering and Technology
+    - Babasaheb Bhimrao Ambedkar University
+    - KCT Engineering College
+    - International Institute of Professional Studies Devi Ahilya University, Indore
+    - SIES GRADUATE SCHOOL OF TECHNOLOGY
+    - PES College of Engineering, Mandya
+    - Dr. Sudhir Chandra Sur Institute of Technology
+    - JAIN
+    - Heritage Institute of Technology, Kolkata
+    - Kerala University of Digital Sciences, Innovation and Technology
+    - Invertis University Bareilly
+    - Sardar Vallabhbhai Patel Institute of Technology, Vasad
+    - Masai School
+    - Assam Engineering College
+    - Santhiram Engineering College
+    - CHRIST (Deemed to be University)
+    - SreeVidyanikethan Engineering College
+    - PSG College of Technology
+    - Chandigarh College of Engineering
+    - Indian Institute of Technology Ropar
+    - Government College of Engineering Srirangam, Thiruchirapalli
+    - Sanskar Institute of Management and Information Technology
+    - Maharaja Institute of Technology Mysore
   validations:
     required: true
 - type: textarea
