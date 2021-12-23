@@ -1,7 +1,7 @@
-#### 📣 Update (November Hackathon Winners)
+#### 📣 Update (December Hackathon Winners)
 | Project      | Members | Live Site URL
 | ----------- | ----------- |---------|
-| [URL Shortner](https://github.com/GitHub-Campus-Program-India/CIS/issues/16)      | @Ashesh3       | https://shrturl.us.to/ 
+| [Portfolio](https://github.com/GitHub-Campus-Program-India/CIS/issues/32)      | @Navin219       | https://naveen-kumar.me/
 
 ---
 ![image](https://user-images.githubusercontent.com/52326803/132934703-e8b7883f-1339-4ab9-9cc4-010103a1ca82.png)
@@ -11,12 +11,12 @@
 Code Innovation Series is an open source focussed student developer skilling program in GitHub Campus Schools 🇮🇳 
 
 ## Workshop 💻
-- Schedule: December 16, 2021 [01:00 PM - 05:00 PM IST] 
+- Schedule: TBA
 - Topics covered: `Open Source Fundamentals`, `Getting started with Git & GitHub`, `GitHub Actions`, `Building simple applications using Student Developer Pack`.
 
 
 ## Join the weekend hackathon 🚀
-- Schedule: December 17, 2021 - December 19, 2021  
+- Schedule: TBA
 
 Theme: Build creative hacks that empower you do to more using GitHub Student Developer Pack tools. 
 
