@@ -33,47 +33,47 @@ body:
     label: University Name
     description: University Name
     options:
-    options:
-      - AAR Mahaveer Engineering College
-      - Ajay Kumar Garg Engineering College
-      - Amrita Vishwa Vidyapeetham
-      - Assam Don Bosco University
-      - Bangalore Institute of Technology (BIT)
-      - Bharati Vidyapeeth's College of Engineering, New Delhi
-      - BITS, Pilani - Hyderabad
-      - Deenbandhu Chhotu Ram University of Science and Technology
-      - Dronacharya College of Engineering
-      - Dronacharya Group of Institutions Greater Noida
-      - Er. Perumal Manimekalai College Of Engg
-      - GITA Autonomous College
-      - Haldia Institute of Technology
-      - Hindustan University-Chennai
-      - IIIT Vadodara
-      - Indian Institute of Information Technology Tiruchirappalli
-      - Indraprastha Institute of Information Technology, Delhi
-      - Institute of Advanced Research
-      - Institute of Engineering MET
-      - International Institute of Information Technology, Naya Raipur
-      - ISL Engineering College
-      - Jodhpur Institute of Engineering and Technology
-      - Kalasalingam University - Virudhunagar
-      - Kumaun University Nainital
-      - L.D. COLLEGE OF ENGINEERING
-      - Lokmanya Tilak College of Engineering
-      - Lovely Professional University, India
-      - Madhav Institute of Technology
-      - MEC Namakkal
-      - MVN University
-      - National Institute of Science and Technology
-      - Rustamji Institute of Technology
-      - Sengunthar Engineering College
-      - Shri Guru Gobind Singhji Institute of Engineering and Technology
-      - Shri Shankaracharya Technical Campus
-      - Sikkim Manipal Institute of Technology
-      - SJB Institute of Technology
-      - Sreepathy Institute of Management And Technology
-      - SRI VENKATESWARAA COLLEGE OF TECHNOLOGY
-      - The National Institute of Engineering
+    - Kalasalingam University - Virudhunagar
+    - GITA Autonomous College
+    - Kumaun University Nainital
+    - SJB Institute of Technology
+    - ISL Engineering College
+    - Sreepathy Institute of Management And Technology
+    - Indraprastha Institute of Information Technology, Delhi
+    - AAR Mahaveer Engineering College
+    - MEC Namakkal
+    - Indian Institute of Information Technology Tiruchirappalli
+    - Dronacharya College of Engineering
+    - Assam Don Bosco University
+    - Dronacharya Group of Institutions Greater Noida
+    - Hindustan University-Chennai
+    - International Institute of Information Technology, Naya Raipur
+    - BITS, Pilani - Hyderabad
+    - Deenbandhu Chhotu Ram University of Science and Technology
+    - Amrita Vishwa Vidyapeetham
+    - Bharati Vidyapeeth's College of Engineering, New Delhi
+    - SRI VENKATESWARAA COLLEGE OF TECHNOLOGY
+    - Er. Perumal Manimekalai College Of Engg
+    - Bangalore Institute of Technology (BIT)
+    - Shri Guru Gobind Singhji Institute of Engineering and Technology
+    - Lokmanya Tilak College of Engineering
+    - The National Institute of Engineering
+    - Haldia Institute of Technology
+    - Institute of Engineering MET
+    - Institute of Advanced Research
+    - Rustamji Institute of Technology
+    - IIIT Vadodara
+    - L.D. COLLEGE OF ENGINEERING
+    - National Institute of Science and Technology
+    - Jodhpur Institute of Engineering and Technology
+    - Madhav Institute of Technology
+    - Shri Shankaracharya Technical Campus
+    - Sikkim Manipal Institute of Technology
+    - Lovely Professional University, India
+    - MVN University
+    - Ajay Kumar Garg Engineering College
+    - Sengunthar Engineering College
+
   validations:
     required: true
 - type: textarea
