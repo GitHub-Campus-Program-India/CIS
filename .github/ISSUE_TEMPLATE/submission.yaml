@@ -33,35 +33,46 @@ body:
     label: University Name
     description: University Name
     options:
-    - ABES institute of technology
-    - The Assam Royal Global University
-    - SCTR's Pune Institute of Computer Technology
-    - KSR College of Engineering
-    - Delhi Technical Campus
-    - Don Bosco Institute of Technology, Mumbai
-    - Jaypee University of Engineering and Technology
-    - Babasaheb Bhimrao Ambedkar University
-    - KCT Engineering College
-    - International Institute of Professional Studies Devi Ahilya University, Indore
-    - SIES GRADUATE SCHOOL OF TECHNOLOGY
-    - PES College of Engineering, Mandya
-    - Dr. Sudhir Chandra Sur Institute of Technology
-    - JAIN
-    - Heritage Institute of Technology, Kolkata
-    - Kerala University of Digital Sciences, Innovation and Technology
-    - Invertis University Bareilly
-    - Sardar Vallabhbhai Patel Institute of Technology, Vasad
-    - Masai School
-    - Assam Engineering College
-    - Santhiram Engineering College
-    - CHRIST (Deemed to be University)
-    - SreeVidyanikethan Engineering College
-    - PSG College of Technology
-    - Chandigarh College of Engineering
-    - Indian Institute of Technology Ropar
-    - Government College of Engineering Srirangam, Thiruchirapalli
-    - Sanskar Institute of Management and Information Technology
-    - Maharaja Institute of Technology Mysore
+AAR Mahaveer Engineering College
+Ajay Kumar Garg Engineering College
+Amrita Vishwa Vidyapeetham
+Assam Don Bosco University
+Bangalore Institute of Technology (BIT)
+Bharati Vidyapeeth's College of Engineering, New Delhi
+BITS, Pilani - Hyderabad
+Deenbandhu Chhotu Ram University of Science and Technology
+Dronacharya College of Engineering
+Dronacharya Group of Institutions Greater Noida
+Er. Perumal Manimekalai College Of Engg
+GITA Autonomous College
+Haldia Institute of Technology
+Hindustan University-Chennai
+IIIT Vadodara
+Indian Institute of Information Technology Tiruchirappalli
+Indraprastha Institute of Information Technology, Delhi
+Institute of Advanced Research
+Institute of Engineering MET
+International Institute of Information Technology, Naya Raipur
+ISL Engineering College
+Jodhpur Institute of Engineering and Technology
+Kalasalingam University - Virudhunagar
+Kumaun University Nainital
+L.D. COLLEGE OF ENGINEERING
+Lokmanya Tilak College of Engineering
+Lovely Professional University, India
+Madhav Institute of Technology
+MEC Namakkal
+MVN University
+National Institute of Science and Technology
+Rustamji Institute of Technology
+Sengunthar Engineering College
+Shri Guru Gobind Singhji Institute of Engineering and Technology
+Shri Shankaracharya Technical Campus
+Sikkim Manipal Institute of Technology
+SJB Institute of Technology
+Sreepathy Institute of Management And Technology
+SRI VENKATESWARAA COLLEGE OF TECHNOLOGY
+The National Institute of Engineering
   validations:
     required: true
 - type: textarea
