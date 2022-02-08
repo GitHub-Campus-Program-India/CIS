@@ -1,7 +1,8 @@
-#### 📣 Update (December Hackathon Winners)
+#### 📣 Update (January Hackathon Winners)
 | Project      | Members | Live Site URL
 | ----------- | ----------- |---------|
-| [Portfolio](https://github.com/GitHub-Campus-Program-India/CIS/issues/32)      | @Navin219       | https://naveen-kumar.me/
+| [Visualizing_Quakes_2.0](https://github.com/GitHub-Campus-Program-India/CIS/issues/91)      | @SJain14       | https://sjain14.github.io/Visualizing_Quakes_2.0/
+| [Bookshelf](https://github.com/GitHub-Campus-Program-India/CIS/issues/90) | @AkshayRajNK | https://akshayrajn.me/
 
 ---
 ![image](https://user-images.githubusercontent.com/52326803/132934703-e8b7883f-1339-4ab9-9cc4-010103a1ca82.png)
