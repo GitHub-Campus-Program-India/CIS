@@ -28,52 +28,10 @@ body:
     description: Please share demo link of your project or demo video.
   validations:
     required: true
-- type: dropdown
+- type: input
   attributes:
     label: University Name
-    description: University Name
-    options:
-    - Kalasalingam University - Virudhunagar
-    - GITA Autonomous College
-    - Kumaun University Nainital
-    - SJB Institute of Technology
-    - ISL Engineering College
-    - Sreepathy Institute of Management And Technology
-    - Indraprastha Institute of Information Technology, Delhi
-    - AAR Mahaveer Engineering College
-    - MEC Namakkal
-    - Indian Institute of Information Technology Tiruchirappalli
-    - Dronacharya College of Engineering
-    - Assam Don Bosco University
-    - Dronacharya Group of Institutions Greater Noida
-    - Hindustan University-Chennai
-    - International Institute of Information Technology, Naya Raipur
-    - BITS, Pilani - Hyderabad
-    - Deenbandhu Chhotu Ram University of Science and Technology
-    - Amrita Vishwa Vidyapeetham
-    - Bharati Vidyapeeth's College of Engineering, New Delhi
-    - SRI VENKATESWARAA COLLEGE OF TECHNOLOGY
-    - Er. Perumal Manimekalai College Of Engg
-    - Bangalore Institute of Technology (BIT)
-    - Shri Guru Gobind Singhji Institute of Engineering and Technology
-    - Lokmanya Tilak College of Engineering
-    - The National Institute of Engineering
-    - Haldia Institute of Technology
-    - Institute of Engineering MET
-    - Institute of Advanced Research
-    - Rustamji Institute of Technology
-    - IIIT Vadodara
-    - L.D. COLLEGE OF ENGINEERING
-    - National Institute of Science and Technology
-    - Jodhpur Institute of Engineering and Technology
-    - Madhav Institute of Technology
-    - Shri Shankaracharya Technical Campus
-    - Sikkim Manipal Institute of Technology
-    - Lovely Professional University, India
-    - MVN University
-    - Ajay Kumar Garg Engineering College
-    - Sengunthar Engineering College
-
+    description: Please add your institution name.
   validations:
     required: true
 - type: textarea
