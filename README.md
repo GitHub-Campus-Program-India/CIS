@@ -12,12 +12,12 @@
 Code Innovation Series is an open source focussed student developer skilling program in GitHub Campus Schools 🇮🇳 
 
 ## Workshop 💻
-- Schedule: 20-Jan-2022
+- Schedule: 17-Feb-2022
 - Topics covered: `Open Source Fundamentals`, `Getting started with Git & GitHub`, `GitHub Actions`, `Building simple applications using Student Developer Pack`.
 
 
 ## Join the weekend hackathon 🚀
-- Schedule: 21-Jan-2022 to 24-Jan-2022
+- Schedule: 18-Feb-2022 to 21-Feb-2022
 
 Theme: Build creative hacks that empower you do to more using GitHub Student Developer Pack tools. 
 
