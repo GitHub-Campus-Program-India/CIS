@@ -1,8 +1,8 @@
-#### 📣 Update (January Hackathon Winners)
+#### 📣 Update (February Hackathon Winners)
 | Project      | Members | Live Site URL
 | ----------- | ----------- |---------|
-| [Visualizing_Quakes_2.0](https://github.com/GitHub-Campus-Program-India/CIS/issues/91)      | @SJain14       | https://sjain14.github.io/Visualizing_Quakes_2.0/
-| [Bookshelf](https://github.com/GitHub-Campus-Program-India/CIS/issues/90) | @AkshayRajNK | https://akshayrajn.me/
+| [hobbyology2](https://github.com/GitHub-Campus-Program-India/CIS/issues/125)      | @ShonaliRomeshika       | https://hobbyology.netlify.com/
+| [Emojizer](https://github.com/GitHub-Campus-Program-India/CIS/issues/90) | @dilshanhiruna | https://dilshanhiruna.github.io/emojizer/
 
 ---
 ![image](https://user-images.githubusercontent.com/52326803/132934703-e8b7883f-1339-4ab9-9cc4-010103a1ca82.png)
@@ -12,12 +12,12 @@
 Code Innovation Series is an open source focussed student developer skilling program in GitHub Campus Schools 🇮🇳 
 
 ## Workshop 💻
-- Schedule: 17-Feb-2022
+- Schedule: 24-Mar-2022
 - Topics covered: `Open Source Fundamentals`, `Getting started with Git & GitHub`, `GitHub Actions`, `Building simple applications using Student Developer Pack`.
 
 
 ## Join the weekend hackathon 🚀
-- Schedule: 18-Feb-2022 to 21-Feb-2022
+- Schedule: 26-Mar-2022 to 29-Mar-2022
 
 Theme: Build creative hacks that empower you do to more using GitHub Student Developer Pack tools. 
 
