@@ -2,7 +2,7 @@
 | Project      | Members | Live Site URL
 | ----------- | ----------- |---------|
 | [hobbyology2](https://github.com/GitHub-Campus-Program-India/CIS/issues/125)      | @ShonaliRomeshika       | https://hobbyology.netlify.com/
-| [Emojizer](https://github.com/GitHub-Campus-Program-India/CIS/issues/90) | @dilshanhiruna | https://dilshanhiruna.github.io/emojizer/
+| [Emojizer](https://github.com/GitHub-Campus-Program-India/CIS/issues/113) | @dilshanhiruna | https://dilshanhiruna.github.io/emojizer/
 
 ---
 ![image](https://user-images.githubusercontent.com/52326803/132934703-e8b7883f-1339-4ab9-9cc4-010103a1ca82.png)
