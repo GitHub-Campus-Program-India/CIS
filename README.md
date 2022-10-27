@@ -8,7 +8,7 @@
 ---
 ![image](https://user-images.githubusercontent.com/52326803/132934703-e8b7883f-1339-4ab9-9cc4-010103a1ca82.png)
 
-# Code Innovation Series 🎉
+# Code Innovation Series Brazil🎉
 
 Code Innovation Series is an open source focussed student developer skilling program in GitHub Campus Schools 🇮🇳 
 
