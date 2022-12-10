@@ -18,7 +18,7 @@ Code Innovation Series is an open source focussed student developer skilling pro
 
 
 ## Join the hackathon 🚀
-- Schedule: 10th Dec, 2022 to 13th Dec, 2022
+- Schedule: 10th Dec, 2022 to 16th Dec, 2022
 
 Theme: Build creative hacks that empower you do to more using GitHub Student Developer Pack tools. 
 
