@@ -1,8 +1,7 @@
-#### 📣 Update (September 2022 Hackathon Winners)
+#### 📣 Update (December 2022 Hackathon Winners)
 | Project      | Members | Live Site URL
 | ----------- | ----------- |---------|
-|  birds between pipes  | @riyuk12  |https://riyuk12.github.io/hackathon-game/ |
-|  Forest_Fire_Prevention | @SHANJAY975 |https://forestfire.azurewebsites.net/ |
+| Query Management  | @Vishwanath @Karthickeyan @Vishal | https://querymanagementsystem.azurewebsites.net/|
 
 
 ---
