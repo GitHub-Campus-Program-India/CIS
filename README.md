@@ -1,7 +1,8 @@
-#### 📣 Update (December 2022 Hackathon Winners)
+#### 📣 Update (February 2023 Hackathon Winners)
 | Project      | Members | Live Site URL
 | ----------- | ----------- |---------|
-| Query Management  | @Vishwanath @Karthickeyan @Vishal | https://querymanagementsystem.azurewebsites.net/|
+| Chat App  | @Ojerinde @omobolajisonde @shittusaheed01 | https://ojerinde.github.io/Hackathon |
+
 
 
 ---
@@ -12,12 +13,12 @@
 Code Innovation Series is an open source focussed student developer skilling program in GitHub Campus Schools 🇮🇳 
 
 ## Workshop 💻
-- Schedule: 4th Feb, 2023
+- Schedule: 25th Feb, 2023
 - Topics covered: `Open Source Fundamentals`, `Getting started with Git & GitHub`, `GitHub Actions`, `Building simple applications using Student Developer Pack`.
 
 
 ## Join the hackathon 🚀
-- Schedule: 5th Feb, 2023 to 8th Feb, 2023
+- Schedule: 26th Feb, 2023 to 1st Mar, 2023
 
 Theme: Build creative hacks that empower you do to more using GitHub Student Developer Pack tools. 
 
