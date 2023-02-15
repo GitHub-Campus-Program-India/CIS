@@ -10,7 +10,7 @@
 
 # Code Innovation Series  🎉
 
-Code Innovation Series is an open source focussed student developer skilling program in GitHub Campus Schools 🇮🇳 
+Code Innovation Series is an open source focussed student developer skilling program.
 
 ## Workshop 💻
 - Schedule: 25th Feb, 2023
